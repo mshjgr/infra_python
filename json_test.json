@@ -1,0 +1,10 @@
+{
+    "name":"키티",
+    "addr":"강원도",
+    "foods":["삼겹살","김밥"]
+    "iswomon":true,
+    "body":{
+        "weight":10,
+        "height":20
+        }
+}
